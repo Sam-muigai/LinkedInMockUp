@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LinkedInMockUp</string>
+    <string-array name="dropdown_items">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+</resources>
+
+
